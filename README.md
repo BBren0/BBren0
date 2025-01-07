@@ -25,4 +25,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BBren0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-![Snake animation](https://github.com/BBren0/blob/output/github-contribuition-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BBreno/BBreno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BBreno/BBreno/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BBreno/BBreno/output/github-contribution-grid-snake.svg">
+</picture>
